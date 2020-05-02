@@ -1,7 +1,7 @@
 # Corana Virus Tracker with NodeMCU ESP8266
 Version : V1.0
 
-This is a version 1 of the Corona Virus Tracker for Specific country that will automtically update itself when there is a new data coming in on the ESP8266 or the API.
+This is a version 1 of the Corona Virus Tracker for Specific country that will automatically update itself when there is a new data coming in on the ESP8266 or the API.
 
 ---
 
